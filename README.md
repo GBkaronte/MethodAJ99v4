@@ -6,6 +6,7 @@ Hash      : C39EC3848898138F69B0D0F7A71B7D24B09C78C071256A61BE4667D355C78842
 
 Se requiere previamente instalar jdk 17 LTS en Windows, Linux y Mac
 By Karonte 2023
+Software libre
 
 ===========================================================================
 
